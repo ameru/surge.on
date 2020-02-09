@@ -1,0 +1,22 @@
+# UI Mainframe Wireframing Requirements List:
+
+## Main Menu
+- warning screen: "this experience may trigger people with epileptic disorders" (low priority)
+- welcome screen: Welcome to SURGE.on
+  - Button that says "Let's Practice!"
+
+## Selection Screen
+- select occupation to practice with
+  - brain surgeon
+  - pediatrician
+  - pharmacist
+  - nurse
+  - optometrist
+  - dentist
+
+## Pop-Up Notifications
+  - Dialogues to be triggered when actions are completed
+    - When appointment begins: "Meet Timmy! He's your first patient of the day."
+    - When using stethoscope: "Let's analyze Timmy's heart rate to make sure he doesn't have any cardiovascular or respiratory issues."
+    - When using thermometer: "Now let's take Timmy's temperature."
+    - when done with check-up: "Good Job! Now let's give Timmy a lollipop to congratulate him for finishing his check-up!"
